@@ -2,7 +2,7 @@
 
 Flutter First time Intro Screens
 
-I just redesign tested code.
+I just redesign the tested code.
 
 source :
 https://stackoverflow.com/questions/50654195/flutter-one-time-intro-screen
