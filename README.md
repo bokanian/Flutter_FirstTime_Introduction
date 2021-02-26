@@ -1,6 +1,11 @@
 # first_time_introduction
 
-A new Flutter application.
+Flutter First time Intro Screens
+
+I just redesign tested code.
+
+source :
+https://stackoverflow.com/questions/50654195/flutter-one-time-intro-screen
 
 ## Getting Started
 
